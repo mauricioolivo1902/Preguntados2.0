@@ -10,7 +10,7 @@ public class interfaz {
     private int puntaje=0;
     ArrayList<jugadores> juga = new ArrayList<jugadores>();
     preguntas pregus = new preguntas();
-    record rank = new record();
+    record ran = new void record();
     private JPanel panel1;
     private JTextField txtNombre;
     private JButton btnRegistro;
